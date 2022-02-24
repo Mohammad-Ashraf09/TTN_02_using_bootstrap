@@ -1,0 +1,538 @@
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.container-fluid
+{
+    max-width: 91vw;
+}
+.xyz
+{
+    max-width: 100vw;
+}
+
+/*--------------------------------------------- meadia querry for opto 400px ----------------------*/
+@media only screen and (max-width: 400px)
+{
+    *
+    {
+        font-size: 12px;
+    }
+    .icon_section
+    {
+        max-width: 33.33%;
+    }
+    .col-md-8 .border i
+    {
+        font-size: 25px;
+    }
+    .just_few_words
+    {
+        width: auto !important;
+    }
+    .foot
+    {
+        flex: 0 1 50%;
+    }
+    .tag
+    {
+        max-width: 50%;
+    }
+    #footer h4
+    {
+        font-size: 16px;
+    }
+    #footer_1 p, #footer_2 button, #footer_3 h6
+    {
+        font-size: 12px;
+    }
+    #footer_3 p
+    {
+        font-size: 9px;
+    }
+    .social
+    {
+        max-width: 22%;
+        height: 35px !important;
+        padding-top: 5px !important;
+        border-radius: 5px;
+    }
+    #youtube
+    {
+        font-size: 16px;
+    }
+    .copyright
+    {
+        width: auto !important;
+        font-size: 9px;
+    }
+    .copyright p
+    {
+        font-size: 9px;
+    }
+}
+
+/*--------------------------------------------- meadia querry for 400px to 500px ----------------------*/
+@media only screen and (min-width: 400px) and (max-width: 500px)
+{
+    *
+    {
+        font-size: 12px;
+    }
+    .icon_section
+    {
+        max-width: 33.33%;
+    }
+    .col-md-8 .border i
+    {
+        font-size: 25px;
+    }
+    .project
+    {
+        max-width: 47%;
+        margin: 4px;
+    }
+    .just_few_words
+    {
+        width: auto !important;
+    }
+    .foot
+    {
+        flex: 0 1 50%;
+    }
+    .tag
+    {
+        max-width: 50%;
+    }
+    .social
+    {
+        max-width: 22%;
+        height: 35px !important;
+        padding-top: 5px !important;
+        border-radius: 5px;
+    }
+    #youtube
+    {
+        font-size: 16px;
+    }
+    .copyright
+    {
+        width: auto !important;
+        
+    }
+}
+
+/*--------------------------------------------- meadia querry for 500px to 767px ----------------------*/
+@media only screen and (min-width: 500px) and (max-width: 767px)
+{
+    *
+    {
+        font-size: 12px;
+    }
+    .icon_section
+    {
+        max-width: 33.33%;
+    }
+    .col-md-8 .border i
+    {
+        font-size: 35px;
+    }
+    .project
+    {
+        max-width: 47%;
+        margin: 6px;
+    }
+    .pointing_girl
+    {
+        max-width: 50%;
+    }
+    .pointing_girl h3
+    {
+        padding: 0 !important;
+        font-size: 16px;
+    }
+    .pointing_girl p
+    {
+        padding: 0 !important;
+        font-size: 11px;
+    }
+    .just_few_words
+    {
+        width: auto !important;
+        font-size: 11px;
+        padding-left: 0;
+    }
+    .just_few_words i
+    {
+        font-size: 11px;
+        padding-left: 10px;
+    }
+    #pointing_girls_button
+    {
+        font-size: 12px;
+        width: 100px !important;
+    }
+    .foot
+    {
+        flex: 0 1 50%;
+    }
+    .tag
+    {
+        max-width: 50%;
+    }
+    .social
+    {
+        max-width: 22%;
+        height: 44px !important;
+        padding-top: 5px !important;
+        border-radius: 5px;
+    }
+    #youtube
+    {
+        font-size: 20px;
+    }
+    .copyright
+    {
+        width: auto !important;
+    }
+}
+
+/*--------------------------------------------- meadia querry for 767px to 1023px ----------------------*/
+@media only screen and (min-width: 767px) and (max-width: 1023px)
+{
+    *
+    {
+        font-size: 14px;
+    }
+    #logo
+    {
+        flex: 1 0 100%;
+    }
+    #top_icons
+    {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+    .col-md-8 .border i
+    {
+        font-size: 25px;
+    }
+    #big_image
+    {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+    #big_image_content
+    {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .three_big_icons h2
+    {
+        font-size: 18px;
+    }
+    .three_big_icons i
+    {
+        font-size: 40px !important;
+    }
+    .three_big_icons p
+    {
+        font-size: 11px;
+    }
+    .project
+    {
+        padding-bottom: 10px;
+    }
+    .pointing_girl h3
+    {
+        padding: 0 !important;
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+    .pointing_girl p
+    {
+        padding: 0 !important;
+        font-size: 9px;
+        margin-bottom: 5px;
+    }
+    .just_few_words
+    {
+        width: auto !important;
+        font-size: 9px;
+        padding-left: 0;
+    }
+    .just_few_words i
+    {
+        font-size: 9px;
+        padding-left: 10px;
+    }
+    #button_div
+    {
+        margin: 2px !important;
+    }
+    #button_div2
+    {
+        padding-bottom: 5px !important;
+    }
+    #pointing_girls_button
+    {
+        font-size: 10px;
+        width: 100px !important;
+    }
+    #footer h4
+    {
+        font-size: 16px;
+    }
+    #footer_1 p, #footer_2 button, #footer_3 h6
+    {
+        font-size: 12px;
+    }
+    #footer_3 p
+    {
+        font-size: 9px;
+    }
+    .social
+    {
+        max-width: 21%;
+        height: 35px !important;
+        padding-top: 0px !important;
+        border-radius: 5px;
+        
+    }
+    .social a
+    {
+        font-size: 15px;
+    }
+    #youtube
+    {
+        font-size: 15px;
+    }
+    .copyright
+    {
+        width: auto !important;
+        font-size: 12px;
+    }
+    .copyright p
+    {
+        font-size: 12px;
+    }
+}
+
+/*--------------------------------------------- meadia querry for 1023px to 1300px ----------------------*/
+@media only screen and (min-width: 1023px) and (max-width: 1300px)
+{
+    *
+    {
+        font-size: 14px;
+    }
+    #logo
+    {
+        flex: 1 0 100%;
+    }
+    #top_icons
+    {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+    .col-md-8 .border i
+    {
+        font-size: 30px;
+    }
+    #big_image_content h1
+    {
+        font-size: 24px;
+        margin: 0 !important;
+    }
+    #big_image_content p
+    {
+        font-size: 12px;
+        padding-top: 5px !important;
+        margin: 0 !important;
+    }
+    #big_image_button
+    {
+        margin-top: 10px !important;
+    }
+    .three_big_icons h2
+    {
+        font-size: 22px;
+    }
+    .three_big_icons i
+    {
+        font-size: 45px !important;
+    }
+    .three_big_icons p
+    {
+        font-size: 13px;
+    }
+    .project
+    {
+        padding-bottom: 10px;
+    }
+    .pointing_girl h3
+    {
+        font-size: 22px;
+        margin-bottom: 0px;
+    }
+    .pointing_girl p
+    {
+        padding: 0 !important;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .just_few_words
+    {
+        width: auto !important;
+        font-size: 12px;
+        padding-left: 0;
+    }
+    .just_few_words i
+    {
+        font-size: 12px;
+        padding-left: 10px;
+    }
+    #button_div
+    {
+        margin: 2px !important;
+    }
+    #button_div2
+    {
+        padding-bottom: 0px !important;
+    }
+    #pointing_girls_button
+    {
+        font-size: 12px;
+        width: 100px !important;
+    }
+    #footer h4
+    {
+        font-size: 16px;
+    }
+    #footer_1 p, #footer_2 button, #footer_3 h6
+    {
+        font-size: 12px;
+    }
+    #footer_3 p
+    {
+        font-size: 9px;
+    }
+    .social
+    {
+        max-width: 24%;
+        height: 45px !important;
+        padding-top: 2px !important;
+        border-radius: 5px;
+    }
+    .social a
+    {
+        font-size: 20px;
+    }
+    #youtube
+    {
+        font-size: 20px;
+    }
+    .copyright
+    {
+        width: auto !important;
+        font-size: 12px;
+    }
+    .copyright p
+    {
+        font-size: 12px;
+    }
+}
+/*--------------------------------------------- meadia querry for 1300px to full with-1 (full width = 1536px) ----------------------*/
+@media only screen and (min-width: 1300px) and (max-width: 1535px)
+{
+    #big_image_content h1
+    {
+        font-size: 26px;
+        margin: 0 !important;
+    }
+    #big_image_content p
+    {
+        font-size: 16px;
+        padding-top: 15px !important;
+        margin: 0 !important;
+    }
+    #big_image_button
+    {
+        margin-top: 20px !important;
+    }
+    .project
+    {
+        padding-bottom: 10px;
+    }
+    .pointing_girl h3
+    {
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+    .pointing_girl p
+    {
+        padding: 0 !important;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .just_few_words
+    {
+        width: auto !important;
+        font-size: 14px;
+        padding-left: 0;
+    }
+    .just_few_words i
+    {
+        font-size: 14px;
+        padding-left: 10px;
+    }
+    #button_div
+    {
+        margin: 2px !important;
+    }
+    #button_div2
+    {
+        padding-bottom: 0px !important;
+    }
+    #pointing_girls_button
+    {
+        font-size: 14px;
+        width: 100px !important;
+    }
+    #footer h4
+    {
+        font-size: 18px;
+    }
+    #footer_1 p, #footer_2 button, #footer_3 h6
+    {
+        font-size: 14px;
+    }
+    #footer_3 p
+    {
+        font-size: 12px;
+    }
+    .social
+    {
+        max-width: 25%;
+        height: 60px !important;
+        padding-top: 9px !important;
+        border-radius: 10px;
+    }
+    .social a
+    {
+        font-size: 30px;
+    }
+    #youtube
+    {
+        font-size: 30px;
+    }
+    .copyright
+    {
+        width: auto !important;
+        font-size: 14px;
+    }
+    .copyright p
+    {
+        font-size: 14px;
+    }
+}
